@@ -2,7 +2,7 @@
 
 ### Join me as I solve Leetcode Grind 169 questions this summer :)
 
-##Topics Covered
+## Topics Covered
 - Array
 - String
 - Linked List
@@ -18,7 +18,7 @@
 - Queue
 
 
-##Techniques Explored
+## Techniques Explored
 - Two-pointer
 - Sliding Window
 - Depth-First Search (DFS)
