@@ -19,8 +19,11 @@
 
 
 ## Techniques Explored
-- Two-pointer
-- Sliding Window
-- Depth-First Search (DFS)
 - Breadth-First Search (BFS)
-- Recursion / Backtracking
+- Depth-First Search (DFS)
+- Design
+- Fast and Slow Pointers
+- Greedy
+- Two Pointers
+- Sliding Window
+
