@@ -36,7 +36,7 @@ class Solution:
         return most_repeated_element
 
 
-#O(1) or solution:
+#O(1) solution or Boyer-Moore Voting Algorithm:
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
 
