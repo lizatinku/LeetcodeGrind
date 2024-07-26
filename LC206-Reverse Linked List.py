@@ -6,13 +6,13 @@
 
 # My plan
 # have a pointer pointing to head
-# have another pointer to nothing
+# have another pointer to None
 # iterate the list as long as there is a node
-# the next node is saved in a variable
-# the link between current and precious nodes is reversed
-# the previous pointer points to the current node
-# the current pointer points to the next node
-# return the previous node
+# save the next node in a variable
+# reverse the link between current and previous node
+# move the previous pointer to the current node
+# move the current pointer to the next node
+# return the previous pointer 
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
