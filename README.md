@@ -4,26 +4,28 @@
 
 ## Topics Covered
 - Array
-- String
-- Linked List
 - Binary
 - Binary Search
 - Binary Tree
-- Recursion
-- Stack
 - Dynamic Programming
 - Graph
 - Hash Table
 - Heap
+- Linked List
 - Queue
+- Recursion
+- Stack
+- String
 
-
-## Techniques Explored
+##Techniques Explored
+- Backtracking
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Design
+- Divide and Conquer
 - Fast and Slow Pointers
 - Greedy
-- Two Pointers
 - Sliding Window
+- Trie
+- Two Pointers
 
