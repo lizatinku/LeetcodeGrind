@@ -17,7 +17,7 @@
 - Stack
 - String
 
-##Techniques Explored
+## Techniques Explored
 - Backtracking
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
