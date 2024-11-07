@@ -1,6 +1,4 @@
-# Leetcode-Grind169
-
-### Join me as I solve Leetcode Grind 169 questions this summer :)
+# Leetcode-Grind
 
 ## Topics Covered
 - Array
